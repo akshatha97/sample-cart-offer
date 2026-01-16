@@ -69,4 +69,4 @@ mvn allure:serve
 
 * **Stopping the Mock Server:** When I am done, I stop the background service using:
 `./mvnw org.mock-server:mockserver-maven-plugin:5.14.0:stopForked`
-* **Port Conflict:** I ensure port `1080` (MockServer) and `9001` (App) are not occupied before starting.
+* **Port Conflict:** I ensure port `1080` (MockServer) and `8080` (App) are not occupied before starting.
