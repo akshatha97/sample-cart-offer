@@ -24,7 +24,7 @@ I use the MockServer Maven plugin to simulate the `/api/v1/user_segment` endpoin
 
 ### 2. Build and Start the Application
 
-I build the project using the Maven wrapper and then launch the Spring Boot application on port `9001`.
+I build the project using the Maven wrapper and then launch the Spring Boot application on port `8080`.
 
 ```bash
 # I build the project and skip tests during this phase
