@@ -8,17 +8,6 @@ This project is a comprehensive test automation suite for the Zomato Cart Offer 
 * **Maven** (via the included `./mvnw` wrapper)
 
 ---
-
-Here is a more professional and neutral version of your README. This version focuses on the technical delivery and functionality rather than personal narrative, which is often preferred for technical assignments.
-
-Zomato Cart Offer API - Test Automation Suite
-This project is a comprehensive test automation suite for the Zomato Cart Offer application. The system manages customer segments (p1, p2, p3) and applies either FLATX or PERCENTAGE discounts based on user eligibility. The suite includes 26 test cases covering positive, negative, and edge-case scenarios.
-
-📋 Prerequisites
-JDK 8: The project is strictly configured for Java 8 compatibility.
-
-Maven: Managed via the included ./mvnw wrapper.
-
 🚀 Execution Guide
 Follow the sequence of commands below to prepare the environment, start the services, and execute the tests.
 
